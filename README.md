@@ -1,14 +1,14 @@
-#  luiz Fernando
+#  Luiz Fernando
 
 **`Desenvolvedora FullStack`**
 
 Me chamo Luiz Fernando Magalhães da Silva tenho 19 anos, terminei o ensino médio no Pensi Colégio e Curso, e atualmente curso ciências da computação na Veiga de Almeida. Busco aprender e evoluir na área para me tornar um futuro programador front-end e back-end.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="[https://www.youtube.com/@larissakich?sub_confirmation=1](https://www.linkedin.com/in/luiz-fernando-magalh%C3%A3es-da-silva-775535280/)">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            alt="Linkedin" 
+            title="Veja meu Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
