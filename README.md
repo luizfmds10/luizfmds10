@@ -1,6 +1,42 @@
-#  Luiz Fernando
+```bash
+ ___       ____  ____   __   ________       ________    _______  ___      ___ 
+|"  |     ("  _||_ " | |" \ ("      "\     |"      "\  /"     "||"  \    /"  |
+||  |     |   (  ) : | ||  | \___/   :)    (.  ___  :)(: ______) \   \  //  / 
+|:  |     (:  |  | . ) |:  |   /  ___/     |: \   ) || \/    |    \\  \/. ./  
+ \  |___   \\ \__/ //  |.  |  //  \__      (| (___\ || // ___)_    \.    //   
+( \_|:  \  /\\ __ //\  /\  |\(:   / "\     |:       :)(:      "|    \\   /    
+ \_______)(__________)(__\_|_)\_______)    (________/  \_______)     \__/
+                                                                          
+```
 
-**`Desenvolvedor Junior`**
+```bash
+$ Name        Luiz Fernando Magalhães da Silva
+$ Uptime      20 Anos
+$ OS          Windows, Linux, FreeBSD
+$ Editor      VSCode
+$ Passions    matemática, programação, hacking, games, futebol.
+```
 
-Me chamo Luiz Fernando Magalhães da Silva tenho 19 anos, terminei o ensino médio no Pensi Colégio e Curso, e atualmente curso ciências da computação na Veiga de Almeida. Busco aprender e evoluir na área para me tornar um futuro desenvolvedor full-stack, atualmente estou cursando HTML / CSS / JavaScript.
+---
 
+### 👨‍💻 Sobre Mim
+
+Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento de sistemas operacionais**.
+Estou particularmente interessado em desenvolvimento de sistemas UNIX like, Linux, FreeBSD, OpenBSD
+
+---
+
+### 🧬 Em Evolução
+
+- Aprendendo fundamentos de C++, Java e Assembly
+- Cursando PENTEST na DESEC em busca do DCPT
+
+---
+
+### 📡 Contato
+
+- **Email: luiz.fmds9@gmail.com** 
+
+---
+
+> 🕵️‍♂️ “while(alive) { code(); }”
