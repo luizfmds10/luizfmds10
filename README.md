@@ -32,4 +32,4 @@ Estou particularmente interessado em desenvolvimento de sistemas UNIX like, Linu
 
 ---
 
-> 🕵️‍♂️ “while(alive) { code(); }”
+### 🕵️‍♂️ “while(alive) { code(); }”
