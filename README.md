@@ -18,13 +18,11 @@ $ Passions    matemática, programação, hacking, games, futebol.
 ```
 ### 👨‍💻 Sobre Mim
 
-Atualmente, estou aprofundando meus conhecimentos em **desenvolvimento de sistemas operacionais**.
-Estou particularmente interessado em desenvolvimento de sistemas UNIX like, Linux, FreeBSD, OpenBSD
+Luiz Fernando Magalhães da Silva, 20 anos, é estudante de Ciência da Computação e desenvolvedor fullstack em evolução, focado em criação de aplicações web, APIs e sistemas. Atualmente está aprofundando seus conhecimentos em JavaScript, TypeScript, Node.js. React, além de desenvolvimento front-end com HTML, CSS e Tailwind, enquanto explora Linux e serviços de nuvem AWS.
 
 ### 🧬 Em Evolução
 
-- Aprendendo fundamentos de C++, Java e Assembly
-- Cursando PENTEST na DESEC em busca do DCPT
+🚀 Explorando atualmente: TypeScript, Linux, AWS, APIs, arquitetura fullstack, bancos de dados (PostgreSQL, MongoDB)
 
 ### 📡 Contato
 
