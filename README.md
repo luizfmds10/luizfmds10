@@ -2,13 +2,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0,1a0533,2d1b69,4a1f8c,6b2fa0&height=220&section=header&text=Luiz%20Fernando&fontSize=62&fontColor=c084fc&fontAlignY=38&desc=Web%20Developer&descAlignY=56&descSize=20&descColor=a78bfa&animation=fadeIn)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=a855f7&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;JavaScript+%26+TypeScript+%7C+React+%7C+Next.js;Always+learning+%7C+Always+building)](https://git.io/typing-svg)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
-
-
 
 ## `// Sobre mim`
 
@@ -22,7 +22,6 @@ base:       Brasil
 status:     sempre em desenvolvimento
 ```
 
-<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -63,12 +62,7 @@ status:     sempre em desenvolvimento
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizfmds10&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&icon_color=a855f7&title_color=c084fc" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfmds10&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=c084fc" height="165"/>
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=luizfmds10&theme=midnight-purple&hide_border=true&locale=pt_BR&ring=a855f7&fire=c084fc&currStreakLabel=a855f7)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfmds10&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&title_color=c084fc" />
 
 </div>
 
@@ -91,8 +85,5 @@ status:     sempre em desenvolvimento
 
 <br>
 
-<div align="center">
-
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=6b2fa0,4a1f8c,2d1b69,1a0533,0&height=120&section=footer)
