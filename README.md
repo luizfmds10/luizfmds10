@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0,1a0533,2d1b69,4a1f8c,6b2fa0&height=220&section=header&text=Luiz%20Fernando&fontSize=62&fontColor=c084fc&fontAlignY=38&desc=Web%20Developer&descAlignY=56&descSize=20&descColor=a78bfa&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=a855f7&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;JavaScript+%26+TypeScript+%7C+React+%7C+Next.js;Always+learning+%7C+Always+building)](https://git.io/typing-svg)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -94,11 +92,6 @@ status:     sempre em desenvolvimento
 <br>
 
 <div align="center">
-
-```
-「 Sabe o que separa um dev mediano de um excelente?
-   A quantidade de vezes que ele releu o próprio código com vergonha. 」
-```
 
 </div>
 
